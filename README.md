@@ -45,7 +45,7 @@ cd Asisten-Albany
 
 ## Buat Virtual Environment (WAJIB)
 ```bash
-python310 -m venv venv310
+py -3.10 -m venv env310
 ```
 Lalu masuk ke env dengan cara
 ```bash
