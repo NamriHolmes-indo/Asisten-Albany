@@ -1,0 +1,37 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Virtual Environment ===
+venv310/
+.venv/
+env/
+ENV/
+
+# === VS Code ===
+.vscode/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Models / Cache (ML) ===
+offload/
+.cache/
+model/*
+!model/id-vits/
+!model/id-vits/**
+
+tidak_untuk_upload/
+packages.txt
+lahan_coba_2.py
+lahan_coba_1.py
+coba_speech_to_text2.py
+coba_speech_to_text.py
+installed_apps.json
+coba_mistral.py
