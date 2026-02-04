@@ -6,7 +6,18 @@ Albani adalah **personal voice assistant berbasis Python** yang mendukung:
 - Kontrol aplikasi Windows (buka aplikasi lewat suara)
 - Deteksi aplikasi yang sedang berjalan
 
-Project ini **khusus Windows**.
+Project ini masih dicoba pada sistem operasi **Windows**.
+
+## Kontribusi
+
+Kontribusi sangat terbuka 🙌  
+
+Langkah singkat:
+1. Fork repository ini
+2. Buat branch baru dari `main`
+   ```bash
+   git checkout -b feature/nama-fitur
+   ```
 
 ---
 
